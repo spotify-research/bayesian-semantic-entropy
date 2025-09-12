@@ -1,6 +1,8 @@
 # Hallucination Detection on a Budget: Efficient Bayesian Estimation of Semantic Entropy
 
-Link to our paper: [Hallucination Detection on a Budget: Efficient Bayesian Estimation of Semantic Entropy](https://arxiv.org/abs/2504.03579).
+Link to our paper: 
+> Kamil Ciosek, Nicolò Felicioni, Sina Ghiassian.
+> [Hallucination Detection on a Budget: Efficient Bayesian Estimation of Semantic Entropy](https://arxiv.org/abs/2504.03579).
 
 This repository contains the code required to completely reproduce the results presented in our paper. It is also intended to serve as a useful foundation for researchers who wish to build upon our work or use our data files for further study.
 
@@ -95,3 +97,10 @@ with open(f'/home/usr_name/dev/llm-hallucination/.aim/86e1574943c649bb91dd3fe5/v
 ### 4. Run the Notebook
 
 Execute all cells in the notebook. This will generate the final `.pkl` file used for downstream analysis and figure generation, as reported in the paper.
+
+
+## Authors
+
+- [Kamil Ciosek](mailto:kamilc@spotify.com)
+- [Nicolò Felicioni](mailto:nicolof@spotify.com)
+- [Sina Ghiassian](mailto:sinag@spotify.com)
